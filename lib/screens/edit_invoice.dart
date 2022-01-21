@@ -3,7 +3,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:invoices/bloc/invoice_bloc.dart';
 import 'package:invoices/constants/app_resource_constants.dart';
 import 'package:invoices/constants/enum.dart';
-import 'package:invoices/model/model.dart';
+import 'package:invoices/models/model.dart';
 
 class EditInvoiceScreen extends StatefulWidget {
   final bool? newInvoice;

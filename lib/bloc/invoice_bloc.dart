@@ -1,6 +1,6 @@
 import 'package:bloc/bloc.dart';
 import 'package:invoices/invoice_database/invoice_database.dart';
-import 'package:invoices/model/model.dart';
+import 'package:invoices/models/model.dart';
 
 import 'package:meta/meta.dart';
 import 'package:equatable/equatable.dart';
