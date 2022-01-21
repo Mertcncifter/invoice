@@ -1,0 +1,1 @@
+enum InvoiceType { person, company }
