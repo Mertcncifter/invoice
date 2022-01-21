@@ -1,5 +1,5 @@
 import 'package:hive/hive.dart';
-import 'package:invoices/models/Invoice_model.dart';
+import 'package:invoices/models/invoice_model.dart';
 
 class InvoiceDatabase {
   String _boxName = "Invoice";
