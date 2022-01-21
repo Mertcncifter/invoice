@@ -1,4 +1,4 @@
-part of 'packages/invoices/models/invoice_model.dart';
+part of 'model.dart';
 
 class InvoiceAdapter extends TypeAdapter<Invoice> {
   @override

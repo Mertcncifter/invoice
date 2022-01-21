@@ -1,8 +1,6 @@
-library hax;
-
 import 'package:hive/hive.dart';
 import 'package:invoices/constants/enum.dart';
-part 'invoice_model_g.dart';
+part 'model_g.dart';
 
 @HiveType(typeId: 1)
 class Invoice {
